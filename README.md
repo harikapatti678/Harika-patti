@@ -2,15 +2,6 @@
 ![logo](https://github.com/harikapatti678/Harika-patti/blob/main/DA2.png)
 <h2 data-importer="text" align="center">Hi 👋! I'm Harika Patti.</h2>
 
-###
-
-<div data-importer="stats" align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=harikapatti678&show_icons=true&theme=radical" height="150"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harikapatti678&layout=compact&theme=radical" height="150"/>
-</div>
-
-###
 
 <img data-importer="image" align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
