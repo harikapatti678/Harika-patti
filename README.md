@@ -1,4 +1,5 @@
 # Harika-patti
+![logo](https://github.com/harikapatti678/Harika-patti/blob/main/DA2.png)
 <h2 data-importer="text" align="left">Hi 👋! I'm Harika Patti, aspiring Data Analyst.</h2>
 
 ###
